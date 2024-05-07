@@ -16,4 +16,4 @@ In case you are interested in developing your own add-on, this repository can be
 
 ## Thanks
 
-Thanks garethcheyne sharing the respository https://github.com/garethcheyne/HomeAssistant
+Thanks garethcheyne sharing the repository https://github.com/garethcheyne/HomeAssistant
